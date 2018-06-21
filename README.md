@@ -1,0 +1,1 @@
+# gerenciaDeConfigura-o
